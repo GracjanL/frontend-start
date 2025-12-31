@@ -1,1 +1,2 @@
-# frontend-start
+# frontend learning
+My first steps in frontend develoment.
